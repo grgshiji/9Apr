@@ -1,0 +1,16 @@
+{
+  "name": "9Apr",
+  "type": "package",
+  "blockId": "My_3QPcAsacz4XYztQXFb",
+  "source": {
+    "https": "https://github.com/grgshiji/9Apr.git",
+    "ssh": "git@github.com:grgshiji/9Apr.git",
+    "branch": "block_9Apr"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
